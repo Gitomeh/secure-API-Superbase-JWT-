@@ -1,3 +1,4 @@
+// Public routes - no authentication required
 const express = require('express');
 const router = express.Router();
 
