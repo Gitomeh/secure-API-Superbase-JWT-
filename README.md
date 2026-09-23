@@ -1,10 +1,14 @@
 # Secure Authentication API with Supabase Auth
 
+> Week 2 Assignment A4 - FlyRank Backend Track
+
 A secure REST API built with Express.js and Supabase Auth, featuring user authentication, JWT verification, protected routes, and Swagger UI documentation.
 
 ## Project Overview
 
 This project implements a complete authentication system using Supabase Auth for user management and JWT tokens for secure API access. The API includes signup, login, logout, protected routes, and comprehensive Swagger documentation.
+
+This is a FlyRank Backend Track Week 2 Assignment A4 project demonstrating secure API development practices.
 
 ## Technologies
 

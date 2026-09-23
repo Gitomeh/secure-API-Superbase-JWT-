@@ -1,3 +1,5 @@
+// Supabase client configuration
+// Uses environment variables for secure credential management
 const { createClient } = require('@supabase/supabase-js');
 
 const supabaseUrl = process.env.SUPABASE_URL;

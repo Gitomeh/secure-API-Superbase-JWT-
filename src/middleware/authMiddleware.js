@@ -1,3 +1,5 @@
+// Reusable authentication middleware
+// Verifies JWT tokens with Supabase and attaches user to request
 const supabase = require('../config/supabase');
 
 const authMiddleware = async (req, res, next) => {
