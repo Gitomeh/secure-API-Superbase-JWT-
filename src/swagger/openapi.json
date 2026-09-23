@@ -3,7 +3,7 @@
   "info": {
     "title": "Secure Authentication API",
     "version": "1.0.0",
-    "description": "A secure REST API with Supabase Auth, JWT verification, and protected routes"
+    "description": "A secure REST API with Supabase Auth, JWT verification, and protected routes. Week 2 Assignment A4 - FlyRank Backend Track."
   },
   "servers": [
     {
